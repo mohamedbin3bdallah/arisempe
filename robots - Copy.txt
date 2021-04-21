@@ -1,0 +1,19 @@
+User-agent: Mediapartners-Google
+Disallow: /pages/
+
+User-agent: Googlebot-Image
+Allow: /uploads/
+
+User-agent: Adsbot-Google
+Allow: /
+
+User-agent: Googlebot-Mobile
+Allow: /
+
+User-agent: Googlebot-Mobile
+Disallow: /pages/
+
+User-agent: *
+Disallow: /pages/
+
+Sitemap: http://www.arise-mpe.com/sitemap.xml
